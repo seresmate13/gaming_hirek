@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #121212;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 45px;
+    
+}
+
+h3{
+    color: #0ff;
+    font-size: 28px;
+}
+
+.row{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+img{
+    border: 2px #0ff solid ;
+    border-radius: 10px;
+    
+}
+
+p{
+    text-align: justify;
+}
